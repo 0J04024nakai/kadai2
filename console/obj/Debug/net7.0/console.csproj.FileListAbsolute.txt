@@ -1,0 +1,14 @@
+C:\KIC\2023\個人課題2\ie\console\bin\Debug\net7.0\console.exe
+C:\KIC\2023\個人課題2\ie\console\bin\Debug\net7.0\console.deps.json
+C:\KIC\2023\個人課題2\ie\console\bin\Debug\net7.0\console.runtimeconfig.json
+C:\KIC\2023\個人課題2\ie\console\bin\Debug\net7.0\console.dll
+C:\KIC\2023\個人課題2\ie\console\bin\Debug\net7.0\console.pdb
+C:\KIC\2023\個人課題2\ie\console\obj\Debug\net7.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\KIC\2023\個人課題2\ie\console\obj\Debug\net7.0\console.AssemblyInfoInputs.cache
+C:\KIC\2023\個人課題2\ie\console\obj\Debug\net7.0\console.AssemblyInfo.cs
+C:\KIC\2023\個人課題2\ie\console\obj\Debug\net7.0\console.csproj.CoreCompileInputs.cache
+C:\KIC\2023\個人課題2\ie\console\obj\Debug\net7.0\console.dll
+C:\KIC\2023\個人課題2\ie\console\obj\Debug\net7.0\refint\console.dll
+C:\KIC\2023\個人課題2\ie\console\obj\Debug\net7.0\console.pdb
+C:\KIC\2023\個人課題2\ie\console\obj\Debug\net7.0\console.genruntimeconfig.cache
+C:\KIC\2023\個人課題2\ie\console\obj\Debug\net7.0\ref\console.dll
