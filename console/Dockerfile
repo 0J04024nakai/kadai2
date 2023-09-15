@@ -1,3 +1,6 @@
+# 制作実習II 第2期プログラム
+# @author 0J04024 中井禅
+
 # FROM mcr.microsoft.com/dotnet/sdk:7.0
 # WORKDIR /work
 # COPY *.csproj .
